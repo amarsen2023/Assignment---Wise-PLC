@@ -75,3 +75,10 @@ There is scope to improve in this sector for exceptional cases where funds are n
 
 I am their customer over 8 years and found to be the best way of sending money acroos the globe. I sent money to India (in 20 secs.), to USA and UK in 24 hrs. Fees are also way cheap compared to other popular alrernatives. Another factors is its secured way of transferring funds. 
 
+# SOURCES 
+WISE WEB SITE - https://wise.com/ca/about/
+
+wikipedia - https://en.wikipedia.org/wiki/Wise
+
+
+

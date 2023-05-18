@@ -4,20 +4,12 @@ WISE PLC. was formed in UK in 2011 with the two founders Taavet Hinrikus and Kri
 
 # EXECUTIVE SUMMARY -
 
-Parameter| 2021 | 2022
--- | --|--
-EPS  |.562 | .70
-net profit| $568.25M | $670M
-Market     |     25.6M    |$ 85.252M
-Capitalisation
 
-GBP 76 B currency volume processed 
-
-Over 13M customers signed worldwide 
 
 Connectivity over 90 countries 
 
 Gross revenue in GBP 560M rise over 33% compared to previous year (2021)
+
 EBITDA rise over 49% against last year; absolute fig. GBP 121M
 
 Avg. transfer fees below 1%; as against leading financial companies which is over 3%
